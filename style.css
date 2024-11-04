@@ -1,8 +1,20 @@
 body{
     color: white
-    blackground:;
+    background-color:black;
 }
     
 header{
-    border-bottom: solid 2px 
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px; 
+    font-size:32px; 
+    color:black (0,0,0);
+}
+
+section{
+    background-color: red (255,0,0);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+
 }
